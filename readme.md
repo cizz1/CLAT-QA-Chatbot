@@ -1,6 +1,6 @@
 # Conversational RAG Chatbot for CLAT Queries
 
-A locally hosted chatbot leveraging Retrieval-Augmented Generation (RAG) to answer CLAT-related queries using a curated knowledge base. This assistant employs history-aware retrieval and a performant LLM (LLaMA-4 via Groq) to deliver accurate, document-grounded responses.
+A hsoted chatbot leveraging Retrieval-Augmented Generation (RAG) to answer CLAT-related queries using a curated knowledge base. This assistant employs history-aware retrieval and a performant LLM (LLaMA-4 via Groq) to deliver accurate, document-grounded responses.
 
 ---
 
@@ -8,13 +8,15 @@ A locally hosted chatbot leveraging Retrieval-Augmented Generation (RAG) to answ
 
 To experience the chatbot:
 
-1.  Navigate to the project directory.
-2.  Ensure all requirements are installed (refer to the [Setup Instructions](#setup-instructions) section).
-3.  Execute the Streamlit application:
-    ```bash
-    streamlit run app.py
-    ```
-4.  Interact with the chatbot by entering your CLAT-related questions in the provided text input field.
+**Try the live demo of the chatbot here:** [https://clat-app-chatbot.streamlit.app/](https://clat-app-chatbot.streamlit.app/)
+
+**You can ask questions like:**
+
+- "What is the syllabus for CLAT 2025 UG?"
+- "How many questions are there in the Legal Reasoning section?"
+- "Give me the cutoff for NLSIU Bangalore for CLAT 2024."
+
+Simply visit the link above and enter your query in the text box to receive responses grounded in real documents from the CLAT official site.
 
 ---
 
