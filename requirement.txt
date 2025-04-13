@@ -15,4 +15,5 @@ sentence-transformers
 huggingface-hub
 scikit-learn
 pandas
+python-dotenv
 pysqlite3-binary
