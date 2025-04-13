@@ -15,7 +15,7 @@ load_dotenv()
 
 from langchain.prompts.chat import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables.history import RunnableWithMessageHistory
-from langchain_ollama import ChatOllama
+
 from langchain.vectorstores import Chroma
 from langchain_community.document_loaders import TextLoader, PyPDFLoader, DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
