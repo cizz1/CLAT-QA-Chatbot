@@ -105,10 +105,3 @@ Scaling this architecture to incorporate a GPT-based model fine-tuned on NLTI-sp
 
 Both approaches offer pathways to leverage the capabilities of GPT-based models for NLTI-specific CLAT query answering. The RAG approach with a fine-tuned LLM and a scalable vector store offers better modularity, allows for continuous updates to the knowledge base without retraining the entire model, and can be more efficient in handling large datasets. The direct fine-tuning approach might offer more nuanced and integrated responses if the fine-tuning data is sufficiently comprehensive.
 
-## License
-
-MIT License – See the LICENSE file for details.
-
-## Author
-
-Satyam Kumar
