@@ -43,6 +43,8 @@ The knowledge base is constructed from manually collected data from the official
 3.  **Retriever Configuration:** A `Similarity` retriever is configured with specific parameters ($k=6$, $\lambda_{mult}=0.25$, $fetch\_k=20$) to retrieve the most relevant document chunks based on the query and conversation history.
 4.  **LLM and Answer Generation:** The reformulated query and the top retrieved document chunks are fed into the Groq-hosted `meta-llama/llama-4-scout-17b` model. The LLM generates a response strictly based on the provided context, ensuring source attribution and avoiding unsupported claims.
 
+![Preview](workflow.png)
+
 ## Setup Instructions
 
 1.  **Clone the Repository:**
@@ -74,7 +76,7 @@ The knowledge base is constructed from manually collected data from the official
 
 ## Features
 
-- Locally hosted and operational without reliance on OpenAI.
+- Locally hostable
 - History-aware retrieval enhances conversational context understanding.
 - Answers are grounded in provided documents with clear source citations.
 - Utilizes Groq and LLaMA 4 for fast and cost-effective inference.
