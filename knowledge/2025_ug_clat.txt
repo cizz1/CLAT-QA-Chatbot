@@ -1,0 +1,195 @@
+```
+# CLAT 2025 UG Programme Information
+{"exam_year": 2025, "exam_type": "UG", "programme": "CLAT"}
+---
+
+## Section: CLAT 2025 UG Syllabus
+{"section": "Syllabus", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT"}
+
+**Topic:** Introduction and Overview
+{"topic": "Introduction and Overview", "section": "Syllabus", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["overview", "introduction", "comprehension", "reasoning", "aptitude", "skills", "legal education", "prior knowledge", "current affairs", "general knowledge"]}
+* **Focus:** Evaluating comprehension and reasoning skills and abilities.
+* **Nature of Test:** Aptitude and skills for legal education, not prior knowledge (though prior knowledge in Current Affairs/General Knowledge may be useful).
+* **Duration:** 2-hour test.
+* **Number of Questions:** 120 multiple-choice questions.
+* **Marks per Question:** 1 mark.
+* **Negative Marking:** 0.25 marks for every wrong answer.
+* **Subject Areas:**
+    {"sub_topic": "Subject Areas", "keywords": ["subjects", "sections", "english", "current affairs", "general knowledge", "legal reasoning", "logical reasoning", "quantitative techniques"]}
+    * English Language
+    * Current Affairs, including General Knowledge
+    * Legal Reasoning
+    * Logical Reasoning
+    * Quantitative Techniques
+
+**Topic:** English Language Syllabus 2025
+{"topic": "English Language Syllabus", "section": "Syllabus", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["english", "language", "syllabus", "passages", "comprehension", "inferences", "conclusions", "summarising", "comparing", "contrasting", "vocabulary", "meaning"]}
+* **Passage Length:** About 450 words each.
+* **Passage Source:** Contemporary or historically significant fiction and non-fiction writing (12th standard level).
+* **Expected Skills:**
+    * Comprehending main points, arguments, and viewpoints.
+    * Drawing inferences and conclusions.
+    * Summarising passages.
+    * Comparing and contrasting arguments/viewpoints.
+    * Understanding word and phrase meanings in context.
+
+**Topic:** Current Affairs Including General Knowledge Syllabus 2025
+{"topic": "Current Affairs and General Knowledge Syllabus", "section": "Syllabus", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["current affairs", "general knowledge", "gk", "syllabus", "news", "journalistic sources", "non-fiction", "contemporary events", "india", "world", "arts", "culture", "international affairs", "historical events"]}
+* **Passage Length:** Up to 450 words each.
+* **Passage Source:** News, journalistic sources, and other non-fiction writing.
+* **Question Focus:** Awareness of current affairs and general knowledge, potentially including legal information related to the passage (no prior legal knowledge beyond the passage required).
+* **Specific Areas:**
+    * Contemporary events of significance from India and the world.
+    * Arts and culture.
+    * International affairs.
+    * Historical events of continuing significance.
+
+**Topic:** Legal Reasoning Syllabus 2025
+{"topic": "Legal Reasoning Syllabus", "section": "Syllabus", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["legal reasoning", "syllabus", "passages", "fact situations", "legal matters", "public policy", "moral philosophy", "rules", "principles", "application", "changes"]}
+* **Passage Length:** Around 450 words each.
+* **Passage Content:** Fact situations or scenarios involving legal matters, public policy questions, or moral philosophical enquiries (no prior legal knowledge required).
+* **Expected Skills:**
+    * Identifying and inferring rules and principles.
+    * Applying rules and principles to fact situations.
+    * Understanding how changes to rules/principles affect their application.
+
+**Topic:** Logical Reasoning Syllabus 2025
+{"topic": "Logical Reasoning Syllabus", "section": "Syllabus", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["logical reasoning", "syllabus", "passages", "arguments", "premises", "conclusions", "reasoning patterns", "evidence", "inferences", "analogies", "contradictions", "equivalence", "effectiveness"]}
+* **Passage Length:** Short passages of about 450 words each.
+* **Expected Skills:**
+    * Recognising arguments, premises, and conclusions.
+    * Identifying arguments in the passage.
+    * Critically analysing reasoning patterns and assessing the dependence of conclusions on premises/evidence.
+    * Inferring what follows from the passage and applying these inferences to new situations.
+    * Drawing relationships and analogies, identifying contradictions and equivalence, and assessing argument effectiveness.
+
+**Topic:** Quantitative Techniques Syllabus 2025
+{"topic": "Quantitative Techniques Syllabus", "section": "Syllabus", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["quantitative techniques", "syllabus", "facts", "propositions", "numerical information", "deriving", "inferring", "manipulating", "mathematical operations", "ratios", "proportions", "algebra", "mensuration", "statistics"]}
+* **Question Format:** Short sets of facts/propositions or textual representations of numerical information.
+* **Expected Skills:**
+    * Deriving, inferring, and manipulating numerical information.
+    * Applying 10th-standard mathematical operations (ratios and proportions, basic algebra, mensuration, statistical estimation).
+
+**Topic:** Preparing for the UG-CLAT 2025
+{"topic": "Preparing for CLAT", "section": "Syllabus", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["preparation", "study material", "guides", "sample papers", "model papers", "instructional materials", "exercises", "learning platform", "online sessions", "reading", "current affairs", "newspapers", "periodicals", "quantitative techniques", "mathematics"]}
+* **Consortium Resources:**
+    * Guides to the question paper and sample questions.
+    * Model question papers.
+    * Instructional materials and exercises for each subject.
+    * Learning platform access for applicants with preparatory materials and scores.
+    * Online sessions with subject experts for guidance.
+* **Candidate Actions:**
+    * Develop the capacity to read and understand texts.
+    * Stay updated on news and current affairs (quality newspapers and periodicals).
+    * Improve speed in quantitative techniques (practice with 10th-standard mathematics materials).
+
+---
+
+## Section: CLAT UG Exam Eligibility
+{"section": "Eligibility", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT"}
+
+**Topic:** Age Limit
+{"topic": "Age Limit", "section": "Eligibility", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["age", "upper age limit"]}
+* **Details:** No upper age limit for candidates appearing for UG Programme through the CLAT 2025.
+
+**Topic:** Minimum Qualifying Marks (10+2 or equivalent)
+{"topic": "Minimum Qualifying Marks", "section": "Eligibility", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["minimum marks", "qualifying marks", "10+2", "equivalent", "general", "obc", "nri", "sc", "st", "pwd", "percentage", "grade"]}
+* **Requirement (General/OBC/NRI):** Forty-five percent (45%) of marks or its equivalent in grade.
+* **Requirement (SC/ST/PwD):** Forty Percent (40%) of marks or equivalent.
+
+**Topic:** Candidates Appearing in Qualifying Examination (March/April 2025)
+{"topic": "Appearing Candidates", "section": "Eligibility", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["appearing", "qualifying examination", "march", "april", "eligible", "evidence", "passing", "admission", "failure"]}
+* **Eligibility:** Eligible to apply.
+* **Condition:** Must produce evidence of passing the qualifying examination at the time of admission.
+* **Consequence of Failure:** Failure to provide evidence will result in the loss of the right to be considered for admission.
+
+**Topic:** Submission of Qualifying Examination Result
+{"topic": "Result Submission", "section": "Eligibility", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["result", "submission", "qualifying examination", "10+2", "admission", "ineligible"]}
+* **Requirement:** The result of the 10+2 (or equivalent) examination must be submitted at the time of admission.
+* **Consequence of Failure:** Failure to submit the result will render the candidate ineligible for admission.
+
+**Topic:** Tie-breaking Procedure (Equal Marks in CLAT 2025)
+{"topic": "Tie-breaking Procedure", "section": "Eligibility", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["tie-breaker", "equal marks", "legal aptitude", "higher age", "computerised draw"]}
+* **Order of Preference:**
+    1. Higher marks in the Legal Aptitude section of CLAT 2025 exam.
+    2. Higher age.
+    3. Computerised draw of lots.
+
+---
+
+## Section: CLAT UG 2025 Question Format
+{"section": "Question Format", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT"}
+
+**Topic:** Key Details
+{"topic": "Exam Format Details", "section": "Question Format", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["maximum marks", "duration", "mcq", "negative marking", "subject weightage"]}
+* **Maximum Marks:** 120.
+* **Duration of Exam:** 02:00 Hours.
+* **Multiple-Choice Questions:** 120 questions of one mark each.
+* **Negative Marking:** 0.25 Mark for each wrong answer.
+* **Subject Areas with weightage (approximate number of questions):**
+    {"sub_topic": "Subject Weightage", "keywords": ["subject weightage", "english language", "current affairs", "general knowledge", "legal reasoning", "logical reasoning", "quantitative techniques", "number of questions", "percentage"]}
+    * English Language: 22-26 questions (roughly 20%).
+    * Current Affairs, including General Knowledge: 28-32 questions (roughly 25%).
+    * Legal Reasoning: 28-32 questions (roughly 25%).
+    * Logical Reasoning: 22-26 questions (roughly 20%).
+    * Quantitative Techniques: 10-14 questions (roughly 10%).
+
+---
+
+## Section: CLAT 2025 UG Instructions
+{"section": "Instructions", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT"}
+
+**Topic:** General Instructions
+{"topic": "General Instructions", "section": "Instructions", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["general instructions", "mode of exam", "application", "exam date", "pwd", "eligibility", "indian nationals", "nris", "foreign nationals", "nlus", "information brochure", "reservation", "fee structure", "updates", "provisional allotment"]}
+* **Mode of Examination:** OFFLINE.
+* **Application Submission:** ONLINE only via consortiumofnlus.ac.in.
+* **Date of Examination:** 1st December, 2024 (2:00 P.M. to 4:00 P.M.) - Subject to revision.
+* **Exam Time for PWD Candidates:** 2:00 P.M. to 4:40 P.M.
+* **Eligibility for Indian Nationals/NRIs:** Can appear in CLAT 2025 for UG admissions.
+* **Eligibility for Foreign Nationals:** Not eligible to appear for CLAT.
+* **Information about NLUs:** Refer to the e-brochures on the Consortium website.
+* **NRI/NRI Sponsored Seats:** Refer to e-brochures and websites of respective NLUs for details. CLAT 2025 rankings may be required for some NLUs; direct application to NLUs may also be necessary.
+* **Intake, Reservation Policies, Fee Structures:** Available in the Information Brochure on the official CLAT website and NLU websites. Candidates are advised to review these thoroughly before applying.
+* **Detailed Information on Courses and Specializations:** Refer to the websites of participating NLUs.
+* **Regular Updates:** Candidates should visit the CLAT 2025 website regularly.
+* **Provisional Allotment:** Seat allotment and admission offers are provisional and do not guarantee admission.
+
+**Topic:** Other Instructions
+{"topic": "Other Instructions", "section": "Instructions", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["other instructions", "enrolment dates", "application deadline", "incomplete forms", "registration process", "otp", "login", "accuracy of information", "name spelling", "changes after submission", "program change", "category change", "bpl change", "updates after closure", "furnishing correct information", "false information", "discrepancy", "program choice", "category choice", "test city cancellation", "reservation benefits", "application fee", "non-refundable", "seat changes", "multiple applications"]}
+* **Online Enrolment Dates:** Opens on 15th July, 2024, and closes on 15th October, 2024.
+* **Application Form Submission Deadline:** 15th October, 2024 (11:59 P.M.) - complete in all respects with fee payment. Incomplete forms will not be considered.
+* **Registration Process:** Register at the CLAT 2025 website using a personal mobile number and email ID. OTP verification is required. Login using the registered credentials.
+* **Accuracy of Information:** Fill the form carefully, especially name spelling as per certificates/ID proof. Changes may lead to disqualification.
+* **No Changes After Submission:** Program, category, and BPL field cannot be changed after submission and payment.
+* **No Updates After Closure Date:** Application form updates will not be entertained after the deadline.
+* **Furnishing Correct Information:** Candidates are responsible for providing accurate and authentic information. False or incorrect information can lead to cancellation of admission.
+* **Choosing Program and Category:** Select UG/PG and category correctly. Change requests will not be entertained.
+* **Cancellation of Test City/Centre:** The Convenor reserves the right to cancel/shift a test city/centre due to unforeseen incidents or candidate distribution.
+* **Reservation Benefits:** Relevant certificates as per Government rules and NLU requirements must be produced at the time of admission.
+* **Application Fee:** Non-refundable and non-adjustable.
+* **Changes in Seats and Reservation:** Participating NLUs reserve the right to change the number and break-up of seats and reservation policies.
+* **Multiple Applications:** Only the last submitted online application form will be considered; fees for previous applications will not be refunded.
+
+**Topic:** Documents to be Uploaded with the Online Application
+{"topic": "Documents to Upload", "section": "Instructions", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["documents", "upload", "photograph", "signature", "category certificate", "sc", "st", "obc", "pwd certificate", "bpl certificate", "original certificates", "pdf format"]}
+* Front facing passport size recent photograph with plain background
+* Signature of the candidate
+* Category certificate if applying under SC/ST/OBC
+* Relevant certificate issued by competent authority if applying under P.W.D
+* Relevant certificate issued by competent authority if coming under BPL category
+* **NOTE:** Original certificates must be submitted to the allotted University at the time of admission as per their requirements. Photograph and signature do not need attestation for online application. All documents should be in PDF format only.
+
+**Topic:** Application Fee
+{"topic": "Application Fee Details", "section": "Instructions", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["application fee", "general", "obc", "nri", "sc", "st", "bpl", "pwd", "previous years papers", "payment mode", "online", "bank charges", "non-refundable"]}
+* **Application fee for General/OBC/NRI candidates:** Rs.4,000/-
+* **Application fee for SC/ST/BPL/PWD category candidates:** Rs.3,500/-
+* **Cost of Previous Years' Question Papers:** Rs.500/- (not included in the application fee).
+* **Payment Mode:** Online only.
+* **Bank Transaction Charges:** To be borne by the candidate.
+* **Fee Non-refundable.**
+
+Topic:** Admit Card/Hall ticket
+* Can be downloaded by logging into the candidate's account.
+* The release date will be announced on the website.
+
+```

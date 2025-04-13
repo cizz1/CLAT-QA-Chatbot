@@ -1,0 +1,143 @@
+```
+# CLAT Cut-off 2025 (Category-Wise NLU Cut-off Marks, Rank)
+{"exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "section": "Cut-off"}
+
+**Topic:** Introduction to CLAT 2025 Cut-off
+{"topic": "Introduction", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["cut-off", "results", "nlu", "nlsiu bangalore", "nalsar hyderabad", "admission", "benchmark", "mentors", "difficulty level", "seat availability", "counseling process"]}
+* **Details:** CLAT 2025 exam concluded on 1st December 2024, results announced on 7th December 2024. Cut-off marks and rank are crucial for admission to premier law schools. Category-wise cut-off curated by experienced mentors based on paper difficulty and seat availability. Understanding cut-off is important for counseling strategy.
+
+**Topic:** What is CLAT Cut-Off?
+{"topic": "Definition", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["cut-off", "minimum score", "national law universities", "nlu", "category", "general", "obc", "sc", "st", "domicile", "reservations", "difficulty level", "impact"]}
+* **Details:** Minimum score needed for admission to NLUs. Varies by category, NLU, and domicile reservations. Exam difficulty impacts cut-off (difficult paper = lower cut-off, moderate paper = higher cut-off).
+
+**Topic:** CLAT Cut-Off 2025 (Category-Wise)
+{"topic": "Category-wise Cut-off", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["category-wise cut-off", "general", "obc", "sc", "st", "ews", "pwd", "marks"]}
+* **Table:**
+    * **Category:** General, OBC, SC, ST, EWS, PwD
+    * **CLAT Cut-Off Marks 2025:** 87–98, 83–95, 74–90, 70–86, 85–96, 65–80
+* **Insights:** EWS cut-off similar to General. General has highest range. OBC range provided. SC/ST cut-off ranges are more flexible.
+
+**Topic:** CLAT Cut-off 2025 for Top 3 NLUs
+{"topic": "Top 3 NLUs Cut-off", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["top 3 nlus", "nlsiu bangalore", "nalsar hyderabad", "wbnujs kolkata", "general", "obc", "sc", "st", "ews", "pwd", "marks", "competitive"]}
+* **Table:**
+    * **Category:** General, OBC, SC, ST, EWS, PwD
+    * **Cut-Off Marks for Top 3 NLUs:** 95–98, 92–95, 86–90, 82–86, 94–96, 78–80
+* **Insight:** Highlights the high competition for NLSIU Bangalore, NALSAR Hyderabad, and WBNUJS Kolkata.
+
+**Topic:** CLAT 2025 Cut-Off Marks for Top 10 NLUs
+{"topic": "Top 10 NLUs Cut-off", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["top 10 nlus", "general", "obc", "sc", "st", "ews", "pwd", "marks"]}
+* **Table:**
+    * **Category:** General, OBC, SC, ST, EWS, PwD
+    * **Cut-Off Marks:** 87–98, 83–95, 74–90, 70–86, 85–96, 65–80
+* **List of Top 10 NLUs:** NLSIU Bangalore, NALSAR Hyderabad, NLIU Bhopal, NLU Jodhpur, WBNUJS Kolkata, HNLU Raipur, GNLU Gandhinagar, RMLNLU Lucknow, RGNUL Punjab, CNLU Patna.
+
+**Topic:** NLU Cut-Off Marks 2025
+{"topic": "All NLUs Cut-off Marks", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["nlu cut-off marks", "all nlus", "general", "obc", "sc", "st", "ews", "pwd", "marks"]}
+* **Table:** (Provides specific cut-off marks for each NLU across categories)
+    * **NLU:** NLSIU Bangalore, NALSAR Hyderabad, WBNUJS Kolkata, NLIU Bhopal, NLU Jodhpur, HNLU Raipur, GNLU Gandhinagar, RMLNLU Lucknow, RGNUL Punjab, CNLU Patna, NLU Odisha, NLUJAA Assam, DSNLU Vizag, TNNLU Trichy
+    * **General, OBC, SC, ST, EWS, PwD:** Specific mark ranges for each NLU.
+
+**Topic:** Good Score in CLAT 2025 (for Top 5 NLUs)
+{"topic": "Good Score Analysis", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["good score", "good attempt", "top 5 nlus", "section-wise", "english language", "gk", "current affairs", "legal reasoning", "logical reasoning", "quantitative techniques"]}
+* **Table:**
+    * **Section:** English Language, GK and Current Affairs, Legal Reasoning, Logical Reasoning, Quantitative Techniques, Total
+    * **No. of Questions:** 24, 28, 32, 24, 12, 120
+    * **Good Attempt:** 20, 25, 28, 20, 10, 100
+    * **Good Score:** 16-18, 23-24, 24-26, 16-18, 6-8, 85-94
+
+**Topic:** CLAT Cut-Off Rank 2025 (for Seat Allotment)
+{"topic": "Cut-off Rank", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["cut-off rank", "marks vs rank", "seat allotment", "nlu", "general", "obc", "sc", "st", "ews", "pwd"]}
+* **Table:** (Provides estimated closing ranks for seat allotment in select NLUs)
+    * **NLU:** NLSIU Bangalore, NALSAR Hyderabad, NLU Bhopal, NLU Kolkata
+    * **General, OBC, SC, ST, EWS, PWD:** Specific rank ranges.
+
+**Topic:** CLAT 2025 Cut-Off Rank for Domicile Students
+{"topic": "Domicile Cut-off Rank", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["domicile cut-off rank", "nlu", "general", "obc", "sc", "st", "ews", "pwd"]}
+* **Table:** (Provides estimated closing ranks for domicile students in select NLUs)
+    * **NLU:** NLSIU Bangalore, NALSAR Hyderabad, NLU Bhopal, NLU Kolkata
+    * **General, OBC, SC, ST, EWS, PWD:** Specific rank ranges.
+
+**Topic:** Factors Affecting CLAT Cut-off Marks 2025
+{"topic": "Factors Affecting Cut-off", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["factors affecting cut-off", "difficulty level", "number of candidates", "number of seats", "performance", "reservation policies", "domicile quotas", "nlu preference"]}
+* **List of Factors:**
+    1. Difficulty Level of the Exam (with examples from CLAT 2023 and 2021)
+    2. Number of Candidates Appearing (approx. 60,000 for CLAT 2025)
+    3. Number of Seats Available (approx. 3700 for 2025)
+    4. Performance of the Candidates
+    5. Reservation Policies (category-based)
+    6. Domicile Quotas (NLU-specific)
+    7. NLU Preference (demand for top NLUs)
+
+**Topic:** Marks of CLAT Toppers
+{"topic": "Toppers Marks Analysis", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["toppers marks", "year-wise analysis", "score", "total marks", "insights", "difficulty level trends"]}
+* **Table:**
+    * **Year:** CLAT 2020, 2021, 2022, 2023, 2024, 2025
+    * **Topper Score:** 127.25, 125.5, 121, 116.75, 108, 103.5
+    * **Total Marks:** 150, 150, 150, 150, 120, 116
+    * **Insights:** Trends in topper scores reflecting exam difficulty.
+
+**Topic:** CLAT Exam Papers
+{"topic": "Previous Year Papers", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["previous year papers", "download links", "clat 2025", "clat 2024", "clat 2023", "clat 2022", "clat 2021"]}
+* **List:** Download links for CLAT 2025, 2024, 2023, 2022, 2021 Question Papers.
+
+# CLAT Cut-Off 2024
+{"exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "section": "Cut-off", "year": 2024}
+
+**Topic:** CLAT 2024 Cut-off Ranks (Category-Wise)
+{"topic": "CLAT 2024 Cut-off Ranks", "section": "Cut-off", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "year": 2024, "keywords": ["clat 2024", "cut-off ranks", "opening rank", "closing rank", "nlu", "general", "obc", "sc", "st"]}
+* **Table:**
+    * **NLU:** NLSIU Bangalore, NALSAR Hyderabad, WBNUJS Kolkata, NLIU Bhopal, NLU Jodhpur, HNLU Raipur, GNLU Gandhinagar, RMLNLU Lucknow, RGNUL Punjab, CNLU Patna, NUALS Kochi, NLU Odisha, NUSRL Ranchi, TNNLU Tiruchirappalli, DSNLU Vishakhapatnam, MNLU Mumbai
+    * **General (Opening – Closing Rank):** 1 – 102, 4 – 167, 140 – 279, 159 – 452, 112 – 379, 413 – 791, 8 – 464, 357 – 764, 220 – 1250, 790 – 1358, 231 – 1136, 591 – 1205, 637 – 1594, 806 – 1628, 656 – 1390, 222 – 590
+    * **OBC (Opening – Closing Rank):** 107 – 971, 189 – 1116, —, 879 – 1315, 487 – 1424, 1858 – 2069, 1284 – 1858, —, —, —, —, —, 1943 – 3005, 1672 – 3135, 2068 – 2940, Reserved for Maharashtra Domicile
+    * **SC (Opening – Closing Rank):** 372 – 3007, 319 – 3574, 2056 – 4503, 3161 – 5178, 3574 – 5178, 5192 – 6765, 4988 – 6175, 3234 – 10253, 3234 – 10253, Reserved for Domicile, Reserved for Domicile, 5997 – 9869, 5972 – 11124, 10681 – 11289, 8057 – 10568, Reserved for Maharashtra Domicile
+    * **ST (Opening – Closing Rank):** 224 – 7487, 263 – 6083, 2856 – 8860, 8860 – 11527, 4411 – 8960, 9218 – 12035, 7712 – 11580, —, 9562 – 16875, —, —, 11580 – 16676, 16875 – 19635, Reserved for Domicile, 12009 – 18342, Reserved for Maharashtra Domicile
+
+---
+CLAT Cut-Off 2023
+{"exam_year": 2023, "exam_type": "UG", "programme": "CLAT", "section": "Cut-off", "year": 2023}
+
+**Topic:** CLAT 2023 Cut-off Ranks (Category-Wise)
+{"topic": "CLAT 2023 Cut-off Ranks", "section": "Cut-off", "exam_year": 2023, "exam_type": "UG", "programme": "CLAT", "year": 2023, "keywords": ["clat 2023", "cut-off ranks", "opening rank", "closing rank", "nlu", "general", "ews", "obc", "sc", "st"]}
+* **Table:**
+    * **NLU:** NLSIU Bengaluru, NALSAR Hyderabad, WBNUJS Kolkata, NLIU Bhopal, NLU Jodhpur, HNLU Raipur, GNLU Gandhinagar, RMLNLU Lucknow, RGNUL Patiala, CNLU Patna, NUALS Kochi, NLU Odisha, NUSRL Ranchi, TNNLU Tiruchirapalli, DSNLU Vishakhapatnam, MNLU Mumbai, MNLU Nagpur, MNLU Aurangabad, NLUJA Assam, HPNLU Shimla, DNLU Jabalpur, DBRANLU Sonipat, GNLU Silvassa Campus
+    * **General (Open – Close Rank):** 1 – 114, 25 – 177, 136 – 260, 186 – 463, 70 – 383, 481 – 805, 147 – 462, 432 – 749, 563 – 1307, 628 – 1541, 638 – 1461, 504 – 1207, 939 – 1895, 704 – 2045, 538 – 2080, 325 – 590, 878 – 2102, 1824 – 2655, 1375 – 2569, 822 – 2816, 1696 – 2698, 767 – 2713, 810 – 1820
+    * **EWS (Open – Close Rank):** 129 – 510, 365 – 680, —, 796 – 1290, —, —, 488 – 1210, 1432 – 1845, —, 2002 – 2501, 5660 – 41647, —, 2332 – 2688, —, 2477 – 3285, 2034 – 4878, 2710 – 14738, 13589 – —, —, —, 2969 – 3513, 2584 – 3412, 1863 – 2984
+    * **OBC (Open – Close Rank):** 171 – 923, 931 – 1116, 1397 – 7119, 591 – 1268, —, 2031 – 2061, 1150 – 1878, 772 – 3088, —, 1511 – 5260, —, 6147 – 7957, 2248 – 2756, 2509 – 4119, 7113 – 1607, 3078 – 9880, 7420 – 22745, 12558 – 24704, 4913 – 38136, —, 3905 – 4318, 2533 – 4515, 2435 – 3992
+    * **SC (Open – Close Rank):** 181 – 2674, 702 – 3388, 588 – 4217, 505 – 5311, 2360 – 4457, 6997 – 7137, 3680 – 5683, 6014 – 9582, 5693 – 8856, 7741 – 13369, 6498 – 26009, 13445 – 16910, 695 – 10032, 6192 – 10557, 9337 – 17282, 5963 – 8923, 4921 – 21215, 21626 – 26769, 15318 – 31993, 8337 – 11982, 10030 – 12073, 611 – 11010, 339 – 10104
+    * **ST (Open – Close Rank):** 1781 – 2835, 3375 – 6174, 6121 – 7792, 8143 – 10960, 6689 – 8076, 10117 – 11277, 8790 – 10837, 18980 – 27764, 10300 – 15585, 20004 – —, 27055 – 28147, 16910 – —, 14248 – 18477, 14452 – —, 13295 – —, 17578 – 32870, 23125 – 39121, 37995 – —, 25618 – 42731, 13021 – 20699, 17883 – 23002, 10923 – 21673, 13276 – 14846
+
+---
+CLAT Cut-Off 2022
+{"exam_year": 2022, "exam_type": "UG", "programme": "CLAT", "section": "Cut-off", "year": 2022}
+
+**Topic:** CLAT 2022 Cut-off Ranks (Category-Wise)
+{"topic": "CLAT 2022 Cut-off Ranks", "section": "Cut-off", "exam_year": 2022, "exam_type": "UG", "programme": "CLAT", "year": 2022, "keywords": ["clat 2022", "cut-off ranks", "opening rank", "closing rank", "nlu", "general", "obc", "sc", "st"]}
+* **Table:**
+    * **NLU:** NLSIU Bengaluru, NALSAR Hyderabad, WBNUJS Kolkata, NLIU Bhopal, NLU Jodhpur, HNLU Raipur, GNLU Gandhinagar, RMLNLU Lucknow, RGNUL Patiala, CNLU Patna, NUALS Kochi, NLUO Odisha, NUSRL Ranchi, TNNLU Tiruchirapalli, DSNLU Visakhapatnam, MNLU Mumbai, MNLU Nagpur, MNLU Aurangabad, NLUJA Assam, HPNLU Shimla, DNLU Jabalpur, DBRANLU Sonipat
+    * **General (Open Rank – Close Rank):** 1 – 85, 8 – 162, 117 – 257, 241 – 451, 155 – 378, 430 – 756, 175 – 430, 377 – 756, 437 – 1184, 932 – 1498, 413 – 1315, 470 – 1191, 933 – 1603, 807 – 1816, 1002 – 1589, 645 – 4813, 999 – 1657, 1390 – 2323, 1131 – 1979, 1056 – 2302, 1314 – 2262, 1094 – 2333
+    * **OBC (Open Rank – Close Rank):** 886 – 3843, 250 – 578, 1989 – 11472, 774 – 1510, —, 1721 – 1980, 752 – 1747, 902 – 3568, —, 1882 – 9085, 1142 – 2099, —, 1386 – 2698, 1770 – 3789, 888 – 11160, 1089 – 8748, 293 – 1819, 19850 – 34225, 554 – 2397, —, 1647 – 3489, 1917 – 4018
+    * **SC (Open Rank – Close Rank):** 1222 – 4554, 276 – 1381, 2503 – 4933, 3618 – 4793, 588 – 1172, 4918 – 8879, 3779 – 6527, 4565 – 10476, 6134 – 9434, 5982 – 18386, 998 – 4112, 5800 – 9726, 3540 – 12108, 9091 – 12015, 10847 – 10847, 7487 – 16251, 6251 – 13664, 20505 – 45669, 24253 – 57419, 7229 – 12507, 10967 – 12925, 6448 – 12213
+    * **ST (Open Rank – Close Rank):** 434 – 28, 185 – 158, 3508 – 4723, 6076 – 10189, 7620 – 7620, 11785 – 12027, 1551 – 2014, 15889 – 19504, 6449 – 16179, 62995 – 62995, 12564 – 40169, 13361 – 17417, 13311 – 31604, 15682 – 16880, 24160 – 24160, 11475 – 24360, 30004 – 30479, 46234 – 6061, 16817 – 40718, 12778 – 22145, 15638 – 22762, 12177 – 23212
+
+**Topic:** How to Set Your Target Cut-Off for CLAT 2025?
+{"topic": "Target Cut-off Strategy", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["target cut-off", "strategy", "previous year cut-offs", "paper difficulty", "category-based target", "safety margin", "mock test performance", "incremental improvement"]}
+* **Steps:**
+    1. Analyze Previous Year CLAT Cut-offs
+    2. Consider the Paper Difficulty Level
+    3. Category-Based Target Score for CLAT 2025 (with specific ranges for each category)
+    4. Account for Safety Margin (5-10 marks)
+    5. Assess Mock Test Performance
+    6. Plan for Incremental Improvement
+
+**Topic:** Law Colleges Information Related to CLAT
+{"topic": "Law Colleges Information", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["law colleges", "nlu list", "clat colleges india", "delhi", "rajasthan", "top 5 nlus", "nlsiu bangalore seats"]}
+* **List:** List of NLUs in India, CLAT Colleges in India/Delhi/Rajasthan, Top 5 NLUs in India, NLSIU Bangalore Seats.
+
+**Topic:** FAQs About CLAT Cut-off 2025
+{"topic": "FAQs", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["faq", "cut-off variation", "category", "clat 2024 cut-off", "top nlus", "aiilet cut-off", "sc/st cut-off", "clat 2025 category-wise cut-off", "general cut-off marks and rank", "obc cut-off", "sc cut-off", "st cut-off", "ews cut-off", "pwd cut-off", "highest cut-off nlu", "nalsar hyderabad cut-off", "wbnujs kolkata cut-off", "nlsiu bangalore closing rank", "nlu jodhpur cut-off"]}
+* **Questions and Answers:** Covering various aspects of CLAT 2025 cut-off, including category-wise variations, previous year trends, comparisons with AILET, and specific NLU cut-offs.
+
+**Topic:** Must Know for Every CLAT Aspirant
+{"topic": "Important Information", "section": "Cut-off", "exam_year": 2025, "exam_type": "UG", "programme": "CLAT", "keywords": ["important information", "eligibility criteria", "exam pattern", "age limit", "marking scheme", "preparation", "books"]}
+* **List:** CLAT Eligibility Criteria, Exam Pattern, Age Limit, Marking Scheme, How to Prepare for CLAT?, CLAT Preparation Books.
+```

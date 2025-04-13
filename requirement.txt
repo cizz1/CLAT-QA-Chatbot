@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+langchain-google-genai
+langchain-huggingface
+chromadb
+tiktoken
+pdfminer.six
+pypdf
+sentence-transformers
+huggingface-hub
+scikit-learn
+pandas

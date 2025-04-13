@@ -1,0 +1,191 @@
+```
+# CLAT 2024 UG Programme Information
+{"exam_year": 2024, "exam_type": "UG", "programme": "CLAT"}
+---
+
+## Section: UG Eligibility
+{"section": "Eligibility", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT"}
+
+**Topic:** Age Limit
+{"topic": "Age Limit", "section": "Eligibility", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["age", "upper age limit"]}
+* **Details:** No upper age limit for UG Programme candidates appearing for CLAT 2024.
+
+**Topic:** Minimum Qualifying Marks (10+2 or equivalent)
+{"topic": "Minimum Qualifying Marks", "section": "Eligibility", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["minimum marks", "qualifying marks", "10+2", "equivalent", "general", "obc", "pwd", "nri", "pio", "oci", "sc", "st", "percentage", "grade"]}
+* **Category:** General / OBC / PWD / NRI / PIO / OCI
+    {"sub_topic": "General/OBC/PWD/NRI/PIO/OCI", "keywords": ["general", "obc", "pwd", "nri", "pio", "oci", "minimum marks"]}
+    * **Requirement:** Forty-five percent (45%) marks or its equivalent grade.
+* **Category:** SC/ST
+    {"sub_topic": "SC/ST", "keywords": ["sc", "st", "minimum marks"]}
+    * **Requirement:** Forty Percent (40%) marks or equivalent.
+
+**Topic:** Candidates Appearing in Qualifying Examination (March/April 2024)
+{"topic": "Appearing Candidates", "section": "Eligibility", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["appearing", "qualifying examination", "march", "april", "eligible", "evidence", "passing", "admission", "failure"]}
+* **Eligibility:** Eligible to appear for CLAT 2024.
+* **Condition:** Must produce evidence of passing the qualifying examination at the time of admission.
+* **Consequence of Failure:** Failure to provide evidence will result in the loss of the right to be considered for admission.
+
+**Topic:** Submission of Qualifying Examination Result
+{"topic": "Result Submission", "section": "Eligibility", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["result", "submission", "qualifying examination", "10+2", "equivalent", "admission", "ineligible"]}
+* **Requirement:** The result of the 10+2 (or equivalent) examination must be submitted at the time of admission.
+* **Consequence of Failure:** Failure to submit the result will render the candidate ineligible for admission.
+
+**Topic:** Tie-breaking Procedure (Equal Marks in CLAT 2024)
+{"topic": "Tie-breaking Procedure", "section": "Eligibility", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["tie-breaker", "equal marks", "legal aptitude", "higher age", "computerised draw"]}
+* **Order of Preference:**
+    1.  Higher marks in the Legal Aptitude section of CLAT 2024.
+    2.  Higher age.
+    3.  Computerised draw of lots.
+
+---
+
+## Section: CLAT 2024 UG Syllabus
+{"section": "Syllabus", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT"}
+
+**Topic:** Overall Focus of UG-CLAT 2024
+{"topic": "Overall Focus", "section": "Syllabus", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["overall focus", "evaluation", "comprehension", "reasoning", "aptitude", "skills", "legal education", "prior knowledge", "current affairs", "general knowledge"]}
+* **Evaluation Criteria:** Comprehension and reasoning skills and abilities.
+* **Nature of Test:** Test of aptitude and skills necessary for legal education, rather than prior knowledge (though prior knowledge in Current Affairs/General Knowledge may be useful).
+
+**Topic:** Exam Format
+{"topic": "Exam Format", "section": "Syllabus", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["exam format", "duration", "number of questions", "multiple choice questions", "marking scheme", "negative marking"]}
+* **Duration:** 2 hours.
+* **Number of Questions:** 120 multiple-choice questions.
+* **Marking Scheme:** 1 mark for each correct answer, 0.25 marks negative marking for each wrong answer.
+
+**Topic:** Subject Areas and Weightage (Approximate Number of Questions)
+{"topic": "Subject Areas and Weightage", "section": "Syllabus", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["subject areas", "weightage", "english language", "current affairs", "general knowledge", "legal reasoning", "logical reasoning", "quantitative techniques", "number of questions", "percentage"]}
+* **English Language:** 22-26 questions (roughly 20% of the paper).
+* **Current Affairs, including General Knowledge:** 28-32 questions (roughly 25% of the paper).
+* **Legal Reasoning:** 28-32 questions (roughly 25% of the paper).
+* **Logical Reasoning:** 22-26 questions (roughly 20% of the paper).
+* **Quantitative Techniques:** 10-14 questions (roughly 10% of the paper).
+
+**Topic:** English Language Syllabus 2024
+{"topic": "English Language Syllabus", "section": "Syllabus", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["english language", "syllabus", "passages", "comprehension", "inferences", "conclusions", "summarising", "comparing", "contrasting", "vocabulary", "meaning"]}
+* **Passage Length:** Approximately 450 words each.
+* **Passage Source:** Contemporary or historically significant fiction and non-fiction writing (standard of a 12th-grade student).
+* **Expected Skills:**
+    * Comprehending the main point, arguments, and viewpoints.
+    * Drawing inferences and conclusions.
+    * Summarising the passage.
+    * Comparing and contrasting arguments/viewpoints.
+    * Understanding word and phrase meanings in context.
+
+**Topic:** Current Affairs Including General Knowledge Syllabus 2024
+{"topic": "Current Affairs and General Knowledge Syllabus", "section": "Syllabus", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["current affairs", "general knowledge", "gk", "syllabus", "news", "journalistic sources", "non-fiction", "contemporary events", "india", "world", "arts", "culture", "international affairs", "historical events"]}
+* **Passage Length:** Up to 450 words each.
+* **Passage Source:** News, journalistic sources, and other non-fiction writing.
+* **Question Focus:** Awareness of current affairs and general knowledge, potentially including legal information related to the passage (no prior legal knowledge required beyond the passage).
+* **Specific Areas:**
+    * Contemporary events of significance from India and the world.
+    * Arts and culture.
+    * International affairs.
+    * Historical events of continuing significance.
+
+**Topic:** Legal Reasoning Syllabus 2024
+{"topic": "Legal Reasoning Syllabus", "section": "Syllabus", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["legal reasoning", "syllabus", "passages", "fact situations", "legal matters", "public policy", "moral philosophy", "rules", "principles", "application", "changes"]}
+* **Passage Length:** Around 450 words each.
+* **Passage Content:** Fact situations or scenarios involving legal matters, public policy questions, or moral philosophical enquiries (no prior legal knowledge required).
+* **Expected Skills:**
+    * Identifying and inferring rules and principles.
+    * Applying rules and principles to fact situations.
+    * Understanding how changes to rules/principles affect their application.
+    * Recognising arguments, premises, and conclusions.
+    * Identifying arguments in the passage.
+    * Critically analysing reasoning patterns and assessing the dependence of conclusions on premises/evidence.
+    * Inferring what follows from the passage and applying inferences to new situations.
+    * Drawing relationships and analogies, identifying contradictions and equivalence, and assessing argument effectiveness.
+
+**Topic:** Logical Reasoning Syllabus 2024
+{"topic": "Logical Reasoning Syllabus", "section": "Syllabus", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["logical reasoning", "syllabus", "passages", "arguments", "premises", "conclusions", "reasoning patterns", "evidence", "inferences", "analogies", "contradictions", "equivalence", "effectiveness"]}
+* **Passage Length:** Short passages of about 450 words each.
+* **Expected Skills:**
+    * Recognising arguments, premises, and conclusions.
+    * Identifying arguments in the passage.
+    * Critically analysing reasoning patterns and assessing the dependence of conclusions on premises/evidence.
+    * Inferring what follows from the passage and applying inferences to new situations.
+    * Drawing relationships and analogies, identifying contradictions and equivalence, and assessing argument effectiveness.
+
+**Topic:** Quantitative Techniques Syllabus 2024
+{"topic": "Quantitative Techniques Syllabus", "section": "Syllabus", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["quantitative techniques", "syllabus", "facts", "propositions", "numerical information", "deriving", "inferring", "manipulating", "mathematical operations", "ratios", "proportions", "algebra", "mensuration", "statistics"]}
+* **Question Format:** Short sets of facts/propositions or textual representations of numerical information.
+* **Expected Skills:**
+    * Deriving, inferring, and manipulating numerical information.
+    * Applying 10th-standard mathematical operations (ratios and proportions, basic algebra, mensuration, statistical estimation).
+
+**Topic:** Preparing for the UG-CLAT 2024
+{"topic": "Preparing for CLAT", "section": "Syllabus", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["preparation", "study material", "guides", "sample papers", "model papers", "instructional materials", "exercises", "learning platform", "online sessions", "reading", "current affairs", "newspapers", "periodicals", "quantitative techniques", "mathematics"]}
+* **Consortium Resources:**
+    * Guides to the question paper and sample questions.
+    * Model question papers.
+    * Instructional materials and exercises for each subject.
+    * Learning platform access for applicants with preparatory materials and scores.
+    * Online sessions with subject experts for guidance.
+* **Candidate Actions:**
+    * Develop the capacity to read and understand texts.
+    * Stay updated on news and current affairs (quality newspapers and periodicals).
+    * Improve speed in quantitative techniques (practice with 10th-standard mathematics materials).
+
+---
+
+## Section: UG Question Paper Format
+{"section": "Question Paper Format", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT"}
+
+**Topic:** Key Details
+{"topic": "Exam Format Details", "section": "Question Paper Format", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["maximum marks", "duration", "type of questions", "multiple choice questions", "negative marking", "subject weightage"]}
+* **Maximum Marks:** 120.
+* **Duration of Exam:** 02:00 Hours.
+* **Type of Questions:** Multiple-Choice Questions (120 questions of one mark each).
+* **Negative Marking:** 0.25 Mark for each wrong answer.
+* **Subject Areas and Approximate Weightage (Repeated for Emphasis):**
+    {"sub_topic": "Subject Weightage", "keywords": ["subject weightage", "english language", "current affairs", "general knowledge", "legal reasoning", "logical reasoning", "quantitative techniques", "number of questions", "percentage"]}
+    * English Language: 22-26 questions (approx. 20%).
+    * Current Affairs, including General Knowledge: 28-32 questions (approx. 25%).
+    * Legal Reasoning: 28-32 questions (approx. 25%).
+    * Logical Reasoning: 22-26 questions (approx. 20%).
+    * Quantitative Techniques: 10-14 questions (approx. 10%).
+
+---
+
+## Section: Instructions for UG Programme
+{"section": "Instructions", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT"}
+
+**Topic:** General Instructions
+{"topic": "General Instructions", "section": "Instructions", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["general instructions", "mode of examination", "application submission", "online", "exam date", "pwd", "eligibility", "indian nationals", "nris", "foreign nationals", "nlus", "information", "nri seats", "reservation policies", "fee structures", "courses", "specializations", "updates", "provisional allotment"]}
+* **Mode of Examination:** OFFLINE.
+* **Application Submission:** ONLINE only via consortiumofnlus.ac.in.
+* **Date of Examination:** 3rd December, 2023 (2 PM to 4 PM) - Subject to revision.
+* **Eligibility for Indian Nationals/NRIs:** Must appear in CLAT 2024 for UG admissions.
+* **Eligibility for Foreign Nationals:** Need not appear for the test.
+* **Information about NLUs:** Refer to the e-brochures on the Consortium website.
+* **NRI/NRI Sponsored/Foreign National Seats:** Refer to e-brochures and websites of respective NLUs for details. CLAT 2024 rankings may be required for some NLUs; direct application to NLUs may also be necessary.
+* **Intake, Reservation Policies, Fee Structures:** Available in the Information Brochure on the official CLAT website and NLU websites. Candidates are advised to review these thoroughly before applying.
+* **Detailed Information on Courses and Specializations:** Refer to the websites of participating NLUs.
+* **Regular Updates:** Candidates should visit the CLAT 2024 website regularly.
+* **Provisional Allotment:** Seat allotment and admission offers are provisional and do not guarantee admission.
+
+**Topic:** Other Instructions
+{"topic": "Other Instructions", "section": "Instructions", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["other instructions", "online enrolment dates", "application form submission deadline", "incomplete forms", "registration process", "otp", "login", "accuracy of information", "name spelling", "changes after submission", "program", "category", "bpl", "updates after closure date", "furnishing correct information", "false information", "program choice", "category choice", "test city cancellation", "reservation benefits", "application fee", "non-refundable", "seat changes", "multiple applications"]}
+* **Online Enrolment Dates:** Opens on 1st July, 2023, and closes on 3rd November, 2023.
+* **Application Form Submission Deadline:** 3rd November, 2023 (11:59 P.M.) - complete in all respects with fee payment. Incomplete forms will not be considered.
+* **Registration Process:** Register at the CLAT 2024 website using a personal mobile number and email ID. OTP verification is required. Login using the registered credentials.
+* **Accuracy of Information:** Fill the form carefully, especially name spelling as per certificates/mark sheets/ID proof. Changes may lead to disqualification.
+* **No Changes After Submission:** Program, category, and BPL field cannot be changed after submission and payment.
+* **No Updates After Closure Date:** Application form updates will not be entertained after the deadline.
+* **Furnishing Correct Information:** Candidates are responsible for providing accurate and authentic information. False or incorrect information can lead to cancellation of admission.
+* **Choosing Program and Category:** Select UG/PG and category correctly. Change requests will not be entertained.
+* **Cancellation of Test City/Centre:** The Convenor reserves the right to cancel/shift a test city/centre due to unforeseen incidents or candidate distribution.
+* **Reservation Benefits:** Relevant certificates as per Government rules and NLU requirements must be produced at the time of admission.
+* **Application Fee:** Non-refundable and non-adjustable.
+* **Changes in Seats and Reservation:** Participating NLUs reserve the right to change the number and break-up of seats and reservation policies.
+* **Multiple Applications:** Only the last submitted online application form will be considered; fees for previous applications will not be refunded.
+
+**Topic:** Documents to be Uploaded with the Online Application
+{"topic": "Documents to Upload", "section": "Instructions", "exam_year": 2024, "exam_type": "UG", "programme": "CLAT", "keywords": ["documents", "upload", "photograph", "signature", "category certificate", "sc", "st", "obc", "pwd certificate", "bpl certificate", "original certificates"]} "
+
+Topic:** Admit Card/Hall ticket
+* Can be downloaded by logging into the candidate's account.
+* The release date will be announced on the website.
+
+```
